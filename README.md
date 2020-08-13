@@ -1,6 +1,6 @@
-# lista_tarefas
+# task_list
 
-A new Flutter application.
+Created a task list with flutter and language dart.
 
 ## Getting Started
 
